@@ -1,4 +1,4 @@
-[screenshot](pics/fish.jpeg)
+![screenshot](pics/fish.jpeg)
 
 Ever woken up in the middle of the night with a cold sweat, because you realized you may have accidently commited those credentials? Now you know how i feel.
 
