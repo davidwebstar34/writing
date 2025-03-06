@@ -1,2 +1,4 @@
-# writing
-A repo of all my posts and writings
+# About me
+
+![[pics/me.png]]
+Inspired by Carol Joyce Oates to be as unique and creative as possible.

@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "2811ae70583e36c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "34de0b349fcd75c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f10b25c91173dcd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preventing Accidental Stupidity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preventing Accidental Stupidity"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6d2e268444a2314",
+    "type": "split",
+    "children": [
+      {
+        "id": "57122aff00d4d072",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e772f382216e6cb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1150dc0b36d82ca7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cd10c8af40312553",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "136a2a51a446e585",
+    "type": "split",
+    "children": [
+      {
+        "id": "923f557e1649d161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13d4ec499bc0c4f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Preventing Accidental Stupidity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Preventing Accidental Stupidity"
+            }
+          },
+          {
+            "id": "582f597120d523b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Preventing Accidental Stupidity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Preventing Accidental Stupidity"
+            }
+          },
+          {
+            "id": "9af3d81a97ecdb3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f60b2f2f67f10182",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Preventing Accidental Stupidity.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Preventing Accidental Stupidity"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f10b25c91173dcd5",
+  "lastOpenFiles": [
+    "README.md",
+    "Preventing Accidental Stupidity.md",
+    "pics/fish.jpeg",
+    "sample.md",
+    "pics/me.png",
+    "pics"
+  ]
+}
