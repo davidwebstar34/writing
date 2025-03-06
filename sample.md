@@ -10,4 +10,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex ut justo p
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex ut justo posuere facilisis. Integer tincidunt, felis eu laoreet scelerisque, ligula sapien euismod enim, a tincidunt lorem magna in nulla.
 
+## Some other heading
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex ut justo posuere facilisis. Integer tincidunt, felis eu laoreet scelerisque, ligula sapien euismod enim, a tincidunt lorem magna in nulla.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex ut justo posuere facilisis. Integer tincidunt, felis eu laoreet scelerisque, ligula sapien euismod enim, a tincidunt lorem magna in nulla.
+
+## Some other heading
+
+```sh
+chmod +x stuff
+sudo mv stuff /usr/local/bin/
+```
+
 Thanks for reading!
