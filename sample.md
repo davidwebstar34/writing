@@ -1,4 +1,4 @@
-![An example image](pictures/example.jpg)
+![An example image](fish.jpeg)
 
 # My Blog Post Title
 
