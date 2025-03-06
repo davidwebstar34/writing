@@ -1,3 +1,5 @@
+[screenshot](pics/fish.jpeg)
+
 Ever woken up in the middle of the night with a cold sweat, because you realized you may have accidently commited those credentials? Now you know how i feel.
 
 Developers are human we make mistakes, sometimes even in a completely zero-trust environment accidents still happen. That is why I like to design platforms that are Stupid proof especially when protecting sensitive data.
